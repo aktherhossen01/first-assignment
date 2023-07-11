@@ -144,6 +144,21 @@ header {
     padding: 30px 150px;
     
 }
+/* our-expert-section  */
+.our-expert-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 150px;;
+}
+.expert-img img{
+    width: 250px;
+    border-radius: 120px;
+}
+.expert-title{
+    text-align: center;
+    font-weight: 800;
+}
 
 /* last item  */
 .last-item {
